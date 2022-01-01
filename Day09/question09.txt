@@ -1,0 +1,25 @@
+#########################         #####################
+                         Question-09       
+#########################         #####################
+
+
+- Write a function to check if an object is empty or not in javaScript? -
+  -> How to check if an object is empty or not in javaScript?
+
+
+
+Challenges: 
+  -> isEmpty({}) returns true
+  -> isEmpty({key: 1}) returns false
+
+
+Starter Code:
+  const obj = { key: 1 };
+
+  function isEmpty(obj) {
+      // write your solution here
+
+      return
+  }
+
+  console.log(`is empty object: ${isEmpty(obj)}`)
